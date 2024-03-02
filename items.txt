@@ -4,4 +4,3 @@ maplesImages/jeans3.webp:Camo-Jeans:80.00
 maplesImages/jeans4.webp:Black-Jeans:80.00
 maplesImages/jeans5.webp:Work-Jeans:80.00
 maplesImages/jeans6.webp:Black-Pants:80.00
-
